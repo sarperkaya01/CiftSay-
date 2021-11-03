@@ -31,6 +31,7 @@ namespace KelimeSayisiBulma
         static void Main(string[] args)
         {
             bool k = true;
+            bool kontrol2= true;
              while (k)
              {
                 Console.WriteLine("Cümle Giriniz:");
@@ -39,16 +40,29 @@ namespace KelimeSayisiBulma
                 harf(cumle);
                                 
                 
-                Console.WriteLine("Tekrar işlem yapmak için A Tuşuna basın ya da çıkmak için Q tuşuna basın...");
+                while(kontrol2)
+                {
+                    Console.WriteLine("Tekrar işlem yapmak için A Tuşuna basın ya da çıkmak için Q tuşuna basın...");
 
-                string q = Console.ReadLine();
-                if (q == "a")
-                {
-                    kontrol = true;
-                }
-                else if (q == "q")
-                {
-                    kontrol = false;
+                    string q = Console.ReadLine();
+                    if (q == "a")
+                    {
+                        kontrol = true;
+                        kontrol2 = false;
+
+
+                    }
+                    else if (q == "q")
+                    {
+                        kontrol = false;
+                        kontrol2= false;
+                    }
+                    else{
+                        Console.WriteLine( "Yanlış bir tuşlama yaptınız"  );
+                        kontrol2=true;
+                    }
+                
+
                 }
             }
         }
