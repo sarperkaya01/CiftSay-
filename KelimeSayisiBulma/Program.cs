@@ -30,7 +30,7 @@ namespace KelimeSayisiBulma
         }
         static void Main(string[] args)
         {
-            bool k = true;
+            bool kontrol = true;
             bool kontrol2= true;
              while (k)
              {
