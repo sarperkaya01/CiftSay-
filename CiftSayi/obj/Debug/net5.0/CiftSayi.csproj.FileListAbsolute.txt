@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\C# MyProjects\Patika-C#-Ödevler 1\CiftSayi\bin\Debug\net5.0\CiftSayi.exe
+C:\Users\PC\Desktop\C# MyProjects\Patika-C#-Ödevler 1\CiftSayi\bin\Debug\net5.0\CiftSayi.deps.json
+C:\Users\PC\Desktop\C# MyProjects\Patika-C#-Ödevler 1\CiftSayi\bin\Debug\net5.0\CiftSayi.runtimeconfig.json
+C:\Users\PC\Desktop\C# MyProjects\Patika-C#-Ödevler 1\CiftSayi\bin\Debug\net5.0\CiftSayi.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C# MyProjects\Patika-C#-Ödevler 1\CiftSayi\bin\Debug\net5.0\CiftSayi.dll
+C:\Users\PC\Desktop\C# MyProjects\Patika-C#-Ödevler 1\CiftSayi\bin\Debug\net5.0\ref\CiftSayi.dll
+C:\Users\PC\Desktop\C# MyProjects\Patika-C#-Ödevler 1\CiftSayi\bin\Debug\net5.0\CiftSayi.pdb
+C:\Users\PC\Desktop\C# MyProjects\Patika-C#-Ödevler 1\CiftSayi\obj\Debug\net5.0\CiftSayi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C# MyProjects\Patika-C#-Ödevler 1\CiftSayi\obj\Debug\net5.0\CiftSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C# MyProjects\Patika-C#-Ödevler 1\CiftSayi\obj\Debug\net5.0\CiftSayi.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C# MyProjects\Patika-C#-Ödevler 1\CiftSayi\obj\Debug\net5.0\CiftSayi.AssemblyInfo.cs
+C:\Users\PC\Desktop\C# MyProjects\Patika-C#-Ödevler 1\CiftSayi\obj\Debug\net5.0\CiftSayi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# MyProjects\Patika-C#-Ödevler 1\CiftSayi\obj\Debug\net5.0\CiftSayi.dll
+C:\Users\PC\Desktop\C# MyProjects\Patika-C#-Ödevler 1\CiftSayi\obj\Debug\net5.0\ref\CiftSayi.dll
+C:\Users\PC\Desktop\C# MyProjects\Patika-C#-Ödevler 1\CiftSayi\obj\Debug\net5.0\CiftSayi.pdb
+C:\Users\PC\Desktop\C# MyProjects\Patika-C#-Ödevler 1\CiftSayi\obj\Debug\net5.0\CiftSayi.genruntimeconfig.cache
