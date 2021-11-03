@@ -32,7 +32,7 @@ namespace KelimeSayisiBulma
         {
             bool kontrol = true;
             bool kontrol2= true;
-             while (k)
+             while (kontrol)
              {
                 Console.WriteLine("Cümle Giriniz:");
                 string cumle = Console.ReadLine();
